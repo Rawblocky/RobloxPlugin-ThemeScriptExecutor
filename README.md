@@ -1,14 +1,18 @@
-**Roblox Marketplace:** LINK
+**Roblox Marketplace:** https://create.roblox.com/store/asset/85734022807898/Theme-Script-Executor
 
 # Plugin Template
 
-Description here
+Executes a ModuleScript based on the current Roblox Studio theme. It'll run on startup and whenever the current studio theme changes. You can use this to run a script that'll change the current script editor theme.
 
 ## Example use case
 <p align="center">
-	<img src="catppuccinScriptEditorTheme.png"/>
-	Having a custom Roblox Studio Script Editor theme sync depending on your system theme
+	<img src="SampleScripts/CatppuccinThemes/catppuccinScriptEditorTheme.png"/>
+	Having your script editor automatically change themes depending on Roblox Studio's current theme
 </p>
+<p align="center">
+	<a href="https://github.com/Rawblocky/RobloxPlugin-ThemeScriptExecutor/blob/main/SampleScripts/CatppuccinThemes/README.md">More info</a>
+</p>
+
 
 # Building
 
