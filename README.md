@@ -6,7 +6,7 @@ Executes a ModuleScript based on the current Roblox Studio theme. It'll run on s
 
 ## Example use case
 <p align="center">
-	<img src="SampleScripts/CatppuccinThemes/catppuccinScriptEditorTheme.png"/>
+	<img src="SampleScripts/CatppuccinThemes/preview.png"/>
 	Having your script editor automatically change themes depending on Roblox Studio's current theme
 </p>
 <p align="center">
