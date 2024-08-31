@@ -4,6 +4,12 @@
 
 Description here
 
+## Example use case
+<p align="center">
+	<img src="catppuccinScriptEditorTheme.png"/>
+	Having a custom Roblox Studio Script Editor theme sync depending on your system theme
+</p>
+
 # Building
 
 To build the plugin, make sure you have [Visual Studio Code](https://code.visualstudio.com) installed with the folder in this repository opened as the workspace.

@@ -1,7 +1,6 @@
 {
-    "name": "RobloxPlugin-Template",
-    "tree": 
-    {
-        "$path": "Plugin"
-    }
+	"name": "RobloxPlugin-ThemeScriptExecutor",
+	"tree": {
+		"$path": "Plugin"
+	}
 }
