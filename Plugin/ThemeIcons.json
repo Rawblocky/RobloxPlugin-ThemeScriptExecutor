@@ -1,0 +1,10 @@
+{
+	"LightButton": {
+		"Light": "rbxassetid://75314633328651",
+		"Dark": "rbxassetid://106473256205258"
+	},
+	"DarkButton": {
+		"Light": "rbxassetid://117012220513934",
+		"Dark": "rbxassetid://128985095942465"
+	}
+}

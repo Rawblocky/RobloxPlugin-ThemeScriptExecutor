@@ -1,1 +1,1 @@
-rojo build --output "$env:localappdata\Roblox\Plugins\Rawblocky-SubwaySurfers.rbxmx"
+rojo build --output "$env:localappdata\Roblox\Plugins\Rawblocky-ThemeScriptExecutor.rbxmx"
