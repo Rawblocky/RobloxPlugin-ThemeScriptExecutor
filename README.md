@@ -2,7 +2,7 @@
 
 # Theme Script Executor
 
-Executes a ModuleScript based on the current Roblox Studio theme. It'll run on startup and whenever the current studio theme changes. You can use this to run a script that'll change the current script editor theme.
+Executes a ModuleScript based on the current Roblox Studio theme. It'll run on startup and whenever the current studio theme changes.
 
 ## Example use case
 <p align="center">
